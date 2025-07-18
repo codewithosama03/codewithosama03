@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osamapathan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamapathan03" height="30" width="40" /></a>
-<a href="Osama Pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-pathan-351106375" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/code_with_osama03?igsh=mxj2ewh4mtbiewhpba%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/code_with_osama03?igsh=mxj2ewh4mtbiewhpba%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="linkedin.com/in/osama-pathan-351106375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-pathan-351106375" height="30" width="40" /></a>
+<a href="https://www.instagram.com/code_with_osama03?igsh=MXJ2eWh4MTBieWhpbA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/code_with_osama03?igsh=mxj2ewh4mtbiewhpba%3d%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
