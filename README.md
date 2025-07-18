@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithosama03&label=Profile%20views&color=0e75b6&style=flat" alt="codewithosama03" /> </p>
 
-- 🌱 I’m currently learning **reacj js**
+- 🌱 I’m currently learning **reacjt js**
 
 - 💬 Ask me about **html ,css, javascript**
 
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/osamapathan03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamapathan03" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/osama-pathan-351106375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-pathan-351106375" height="30" width="40" /></a>
+<a href="Osama Pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/osama-pathan-351106375" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/code_with_osama03?igsh=mxj2ewh4mtbiewhpba%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/code_with_osama03?igsh=mxj2ewh4mtbiewhpba%3d%3d&utm_source=qr" height="30" width="40" /></a>
 </p>
 
