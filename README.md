@@ -8,10 +8,9 @@
 <p align="left"> <a href="https://twitter.com/osamapathan03" target="blank"><img src="https://img.shields.io/twitter/follow/osamapathan03?logo=twitter&style=for-the-badge" alt="osamapathan03" /></a> </p>
 
 - 🌱 I’m currently learning **react js**
-
 - 💬 Ask me about **html ,css, javascript**
-
 - 📫 How to reach me **osamapthan03@gmail.com**
+- All my projects are uploaded on my Portfolio = https://codewithosama03.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
