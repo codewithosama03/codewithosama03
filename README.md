@@ -1,62 +1,60 @@
-
-<h1 align="center">Hi, I'm Osama Pathan 👋</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Aspiring Full-Stack Engineer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codewithosama03&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<h1 align="center">Osama Pathan</h1>
+<h3 align="center">Frontend Developer (React)</h3>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-- I am a **frontend developer** actively preparing for **internships and entry-level roles**
-- Currently focused on **React.js** and modern frontend development
-- Comfortable building projects using **Context API, Redux Toolkit, and React Router**
-- Strengthening **advanced JavaScript concepts** like debounce, throttle, closures, and state handling
-- Long-term goal: grow into a **full-stack web developer**
-- Backend and databases are part of my **future learning roadmap**
+I am a frontend developer preparing for internships and entry-level roles.  
+My current focus is building scalable user interfaces using modern React and JavaScript.
+
+I am comfortable working with component-based architectures, state management, and performance-focused frontend patterns. My long-term goal is to transition into full-stack development.
 
 ---
 
-### 🌐 Portfolio & Resume
+### Current Focus
 
-- 💼 Portfolio:  
-  👉 <a href="https://codewithosama03.github.io/Portfolio/" target="_blank">codewithosama03.github.io/Portfolio</a>
-
-- 📄 Resume:  
-  👉 <a href="https://codewithosama03.github.io/Portfolio/resume.pdf" target="_blank">View Resume</a>
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/osama-pathan-351106375/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
-  </a>
-  <a href="https://www.instagram.com/code_with_osama03" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" />
-  </a>
-</p>
+- React.js (Context API, Redux Toolkit, React Router)
+- Advanced JavaScript concepts (closures, debouncing, throttling)
+- Writing clean, maintainable UI logic
+- Preparing for frontend interviews through project-based learning
 
 ---
 
-### 🛠️ Tech Stack
+### Projects & Work
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" />
-</p>
+- Portfolio:  
+  https://codewithosama03.github.io/Portfolio/
+
+- Resume:  
+  https://codewithosama03.github.io/Portfolio/resume.pdf
 
 ---
 
-### 🚀 Currently Learning
-- Advanced React patterns
-- State management best practices
-- Performance optimization in JavaScript
-- Preparing for real-world frontend interviews
+### Technical Skills
+
+**Frontend**
+- HTML5
+- CSS3
+- Tailwind CSS
+- JavaScript (ES6+)
+- React.js
+- Redux Toolkit
+
+**State & Architecture**
+- Context API
+- Global state management
+- Component design patterns
+
+---
+
+### Connect
+
+- LinkedIn:  
+  https://www.linkedin.com/in/osama-pathan-351106375/
+
+---
+
+### Notes
+
+This profile documents my learning journey, projects, and growth as a frontend developer.
