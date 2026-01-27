@@ -62,13 +62,13 @@ I work comfortably with component-based architectures, state management patterns
 - LinkedIn:  
   https://www.linkedin.com/in/osama-pathan-351106375/
   
+---
+### Learning Journey
 
-- Instagrm:
-  https://www.instagram.com/code_with_osama03?igsh=MXJ2eWh4MTBieWhpbA%3D%3D&utm_source=qr
-
+I regularly document my development progress and project work here:  
+https://www.instagram.com/code_with_osama03
 
 ---
-
 ### Notes
 
 This profile documents my projects, technical growth, and preparation for professional frontend development roles.
