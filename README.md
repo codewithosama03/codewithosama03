@@ -61,9 +61,11 @@ I work comfortably with component-based architectures, state management patterns
 
 - LinkedIn:  
   https://www.linkedin.com/in/osama-pathan-351106375/
+  
 
 - Instagrm:
   https://www.instagram.com/code_with_osama03?igsh=MXJ2eWh4MTBieWhpbA%3D%3D&utm_source=qr
+
 
 ---
 
