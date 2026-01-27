@@ -6,18 +6,19 @@
 ### About
 
 I am a frontend developer preparing for internships and entry-level roles.  
-My current focus is building scalable user interfaces using modern React and JavaScript.
+My focus is on building scalable, performance-conscious user interfaces using **React and modern JavaScript**.
 
-I am comfortable working with component-based architectures, state management, and performance-focused frontend patterns. My long-term goal is to transition into full-stack development.
+I work comfortably with component-based architectures, state management patterns, and core JavaScript fundamentals that power real-world frontend applications. My long-term goal is to grow into full-stack development.
 
 ---
 
 ### Current Focus
 
-- React.js (Context API, Redux Toolkit, React Router)
-- Advanced JavaScript concepts (closures, debouncing, throttling)
-- Writing clean, maintainable UI logic
-- Preparing for frontend interviews through project-based learning
+- React.js (Hooks, Context API, Redux Toolkit, React Router)
+- Advanced JavaScript fundamentals (closures, scope, hoisting, this)
+- Asynchronous JavaScript (event loop, promises, async/await)
+- Performance patterns (debouncing, throttling)
+- Writing clean, maintainable, and structured UI logic
 
 ---
 
@@ -34,17 +35,25 @@ I am comfortable working with component-based architectures, state management, a
 ### Technical Skills
 
 **Frontend**
-- HTML5
-- CSS3
-- Tailwind CSS
-- JavaScript (ES6+)
-- React.js
-- Redux Toolkit
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+- JavaScript (ES6+)  
+- React.js  
 
 **State & Architecture**
+- React Hooks (useState, useEffect)
 - Context API
-- Global state management
-- Component design patterns
+- Redux Toolkit (state management)
+- Component-driven architecture
+
+**JavaScript Core**
+- Scope & Closures
+- Hoisting & Execution Context
+- this, call, apply, bind
+- Event Loop & Async Behavior
+- Promises & Async/Await
+- DOM Manipulation & Browser APIs
 
 ---
 
@@ -57,4 +66,4 @@ I am comfortable working with component-based architectures, state management, a
 
 ### Notes
 
-This profile documents my learning journey, projects, and growth as a frontend developer.
+This profile documents my projects, technical growth, and preparation for professional frontend development roles.
