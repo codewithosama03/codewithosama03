@@ -13,8 +13,7 @@ I work comfortably with component-based architectures, state management patterns
 ---
 
 ### Current Focus
-
-- https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip (Hooks, Context API, Redux Toolkit, React Router)
+-(Hooks, Context API, Redux Toolkit, React Router)
 - Advanced JavaScript fundamentals (closures, scope, hoisting, this)
 - Asynchronous JavaScript (event loop, promises, async/await)
 - Performance patterns (debouncing, throttling)
