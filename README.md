@@ -25,11 +25,7 @@ I work comfortably with component-based architectures, state management patterns
 ### Projects & Work
 
 - Portfolio:  
-  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
-
-- Resume:  
-  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
-
+https://codewithosama03.github.io/Portfolio/
 ----
 
 ### Technical Skills
