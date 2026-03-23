@@ -52,18 +52,7 @@ https://codewithosama03.github.io/Portfolio/
 - Promises & Async/Await
 - DOM Manipulation & Browser APIs
 
----
 
-### Connect
-
-- LinkedIn:  
-  https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
-  
----
-### Learning Journey
-
-I regularly document my development progress and project work here:  
-https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip
 
 ---
 ### Notes
