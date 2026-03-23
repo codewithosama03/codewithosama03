@@ -31,12 +31,11 @@ https://codewithosama03.github.io/Portfolio/
 ### Technical Skills
 
 <p>
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
-  <img src="https://raw.githubusercontent.com/codewithosama03/codewithosama03/main/aerostatic/codewithosama03.zip" width="40" />
+-Html
+-Css
+-Javascript
+-React js
+-Tailwind css
 </p>
 
 **State & Architecture**
