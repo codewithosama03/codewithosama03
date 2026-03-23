@@ -30,13 +30,12 @@ https://codewithosama03.github.io/Portfolio/
 
 ### Technical Skills
 
-<p>
 -Html
 -Css
 -Javascript
 -React js
 -Tailwind css
-</p>
+
 
 **State & Architecture**
 - React Hooks (useState, useEffect)
