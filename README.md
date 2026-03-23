@@ -29,12 +29,11 @@ https://codewithosama03.github.io/Portfolio/
 ----
 
 ### Technical Skills
-
--Html
--Css
--Javascript
--React js
--Tailwind css
+- Html
+- Css
+- Javascript
+- React js
+- Tailwind css
 
 
 **State & Architecture**
