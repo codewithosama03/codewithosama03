@@ -55,4 +55,4 @@ https://codewithosama03.github.io/Portfolio/
 ---
 ### Notes
 
-This profile documents my projects, technical growth, and preparation for professional frontend development roles.
+This profile documents my projects, technical growth, and preparation for professional frontend development roles .
