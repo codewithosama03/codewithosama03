@@ -25,7 +25,7 @@ I work comfortably with component-based architectures, state management patterns
 ### Projects & Work
 
 - Portfolio:  
-https://codewithosama03.vercel.app/
+https://codewithosama03-portfolio.vercel.app/
 ----
 
 ### Technical Skills
