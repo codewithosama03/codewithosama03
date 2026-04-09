@@ -44,6 +44,10 @@ I develop end-to-end applications—from responsive frontend interfaces to backe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" alt="Tailwind CSS" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
+</p>
+
 **Frontend**
 - React.js
 - Tailwind CSS
