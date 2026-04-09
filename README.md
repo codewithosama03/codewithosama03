@@ -22,11 +22,10 @@ I develop end-to-end applications—from responsive frontend interfaces to backe
 
 ---
 
-## Projects & Work
+## Projects & and connect
 
-- Portfolio:  
-  https://codewithosama03.vercel.app/
-
+- Portfolio: https://codewithosama03.vercel.app/
+-  Email: osamapathan03@gmail.com
 ---
 
 ## Technical Skills
@@ -34,42 +33,8 @@ I develop end-to-end applications—from responsive frontend interfaces to backe
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" alt="Tailwind CSS" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
 </p>
-
-**Frontend**
-- React.js
-- Tailwind CSS
-- Responsive UI Development
-- Component-Driven Architecture
-
-**Backend**
-- Node.js
-- Express.js
-- REST API Development
-- Authentication & Server Logic
-
-**Database**
-- MongoDB
-- CRUD Operations
-- Schema Design
-
----
-
-## Connect
-
-- Email: osamapathan03@gmail.com
 
 ---
 
