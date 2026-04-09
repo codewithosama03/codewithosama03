@@ -1,58 +1,74 @@
 <h1 align="center">Osama Pathan</h1>
-<h3 align="center">Frontend Developer (React)</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 ---
 
-### About
+## About Me
 
-I am a frontend developer preparing for internships and entry-level roles.  
-My focus is on building scalable, performance-conscious user interfaces using **React and modern JavaScript**.
+I am a MERN Stack Developer actively preparing for internships and entry-level opportunities.  
+My focus is on building modern, scalable, and performance-conscious web applications across the full stack using **MongoDB, Express.js, React, and Node.js**.
 
-I work comfortably with component-based architectures, state management patterns, and core JavaScript fundamentals that power real-world frontend applications. My long-term goal is to grow into full-stack development.
-
----
-
-### Current Focus
-
-- (Hooks, Context API, Redux Toolkit, React Router)
-- Advanced JavaScript fundamentals (closures, scope, hoisting, this)
-- Asynchronous JavaScript (event loop, promises, async/await)
-- Performance patterns (debouncing, throttling)
-- Writing clean, maintainable, and structured UI logic
+I develop end-to-end applications—from responsive frontend interfaces to backend APIs and database management—while emphasizing clean architecture, maintainable code, and real-world development practices.
 
 ---
 
-### Projects & Work
+## Current Focus
+
+- Building and refining full-stack MERN applications  
+- Strengthening backend architecture with Node.js & Express  
+- Advanced React patterns and scalable state management  
+- Database design and optimization with MongoDB  
+- Performance, scalability, and clean code practices  
+
+---
+
+## Projects & Work
 
 - Portfolio:  
-https://codewithosama03.vercel.app/
-----
-
-### Technical Skills
-- Html
-- Css
-- Javascript
-- React js
-- Tailwind css
-
-
-**State & Architecture**
-- React Hooks (useState, useEffect)
-- Context API
-- Redux Toolkit (state management)
-- Component-driven architecture
-
-**JavaScript Core**
-- Scope & Closures
-- Hoisting & Execution Context
-- this, call, apply, bind
-- Event Loop & Async Behavior
-- Promises & Async/Await
-- DOM Manipulation & Browser APIs
-
-
+  https://codewithosama03.vercel.app/
 
 ---
-### Notes
 
-This profile documents my projects, technical growth, and preparation for professional frontend development roles .
+## Technical Skills
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32" height="32" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32" height="32" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32" height="32" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" alt="Tailwind CSS" />
+</p>
+
+**Frontend**
+- React.js
+- Tailwind CSS
+- Responsive UI Development
+- Component-Driven Architecture
+
+**Backend**
+- Node.js
+- Express.js
+- REST API Development
+- Authentication & Server Logic
+
+**Database**
+- MongoDB
+- CRUD Operations
+- Schema Design
+
+---
+
+## Connect
+
+- Email: osamapathan03@gmail.com
+
+---
+
+## Notes
+
+This profile documents my projects, technical growth, and continuous journey toward becoming a professional full-stack MERN developer.
