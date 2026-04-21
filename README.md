@@ -1,5 +1,6 @@
 <h1 align="center">Osama Pathan</h1>
 <h3 align="center">MERN Stack Developer</h3>
+
 ---
 
 ## About Me
