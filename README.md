@@ -2,7 +2,6 @@
 <h3 align="center">MERN Stack Developer</h3>
 ---
 
-
 ## About Me
 
 I am a MERN Stack Developer actively preparing for internships and entry-level opportunities.  
