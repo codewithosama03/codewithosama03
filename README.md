@@ -1,6 +1,5 @@
 <h1 align="center">Osama Pathan</h1>
 <h3 align="center">MERN Stack Developer</h3>
-
 ---
 
 ## About Me
@@ -26,8 +25,8 @@ I develop end-to-end applications—from responsive frontend interfaces to backe
 
 - Portfolio: https://codewithosama03.vercel.app/
 -  Email: osamapathan03@gmail.com
----
 
+---
 ## Technical Skills
 
 ### Languages & Tools
